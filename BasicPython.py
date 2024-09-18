@@ -53,3 +53,21 @@
 # else:
 #     print("You are not allowed")
 # print("Enjoy ride !!!")
+
+#Random Module
+import random
+# random_integer = random.randint(1,3)
+# print(random_integer)
+
+# random_num_1_5 = random.random() * 10
+# print(random_num_1_5)
+
+# random_float = random.uniform(1,3)
+# print(random_float)
+
+# Head & Tail coin flip
+# coin_flip = random.randint(0,1)
+# if(coin_flip == 1):
+#     print("HEADS")
+# else:
+#     print("TAILS")
